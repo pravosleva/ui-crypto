@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import Sidebar from './components/sidebar'
-import Header from "./components/Header"
-import Container from './components/Container'
+import Sidebar from '~/common/components/sidebar'
+import Header from "~/common/components/Header"
+import Container from '~/common/components/Container'
 
 
 export default function Home() {
